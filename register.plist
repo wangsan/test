@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-					          <string>http://bjkjy-ite-csp-store13.bjkjy.baidu.com:8390/static/idldemo.ipa</string>
+		    <string>http://bjkjy-ite-csp-store13.bjkjy.baidu.com:8390/static/idldemo.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
